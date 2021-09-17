@@ -6,7 +6,7 @@ import Link from 'next/link'
 
 const name = "Shubham Chauhan"
 
-export const siteTitle = "this is site title"
+export const siteTitle = "Practice App|Nextjs|CoderChauhan"
 
 const Layout = ({ children, home }) => {
 	return (
